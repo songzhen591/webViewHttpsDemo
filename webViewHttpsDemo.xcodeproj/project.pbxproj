@@ -15,6 +15,7 @@
 		DCCC9EE51D10FE3800F0C390 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCCC9EE31D10FE3800F0C390 /* LaunchScreen.storyboard */; };
 		DCCC9EF01D10FE3800F0C390 /* webViewHttpsDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DCCC9EEF1D10FE3800F0C390 /* webViewHttpsDemoTests.m */; };
 		DCCC9EFB1D10FE3800F0C390 /* webViewHttpsDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = DCCC9EFA1D10FE3800F0C390 /* webViewHttpsDemoUITests.m */; };
+		DCCC9F091D10FFB900F0C390 /* ytuymu.cer in Resources */ = {isa = PBXBuildFile; fileRef = DCCC9F081D10FFB900F0C390 /* ytuymu.cer */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		DCCC9EF61D10FE3800F0C390 /* webViewHttpsDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = webViewHttpsDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCCC9EFA1D10FE3800F0C390 /* webViewHttpsDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = webViewHttpsDemoUITests.m; sourceTree = "<group>"; };
 		DCCC9EFC1D10FE3800F0C390 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCCC9F081D10FFB900F0C390 /* ytuymu.cer */ = {isa = PBXFileReference; lastKnownFileType = file; path = ytuymu.cer; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		DCCC9ED41D10FE3800F0C390 /* webViewHttpsDemo */ = {
 			isa = PBXGroup;
 			children = (
+				DCCC9F081D10FFB900F0C390 /* ytuymu.cer */,
 				DCCC9ED81D10FE3800F0C390 /* AppDelegate.h */,
 				DCCC9ED91D10FE3800F0C390 /* AppDelegate.m */,
 				DCCC9EDB1D10FE3800F0C390 /* ViewController.h */,
@@ -246,6 +249,7 @@
 				DCCC9EE51D10FE3800F0C390 /* LaunchScreen.storyboard in Resources */,
 				DCCC9EE21D10FE3800F0C390 /* Assets.xcassets in Resources */,
 				DCCC9EE01D10FE3800F0C390 /* Main.storyboard in Resources */,
+				DCCC9F091D10FFB900F0C390 /* ytuymu.cer in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
